@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-The purpose for the analysis was to help Louise compare different campaigns to her own crowdfunding campaign for her play "Fever" which came close to its fundraising goal of $10,000 in a short amount of time. Louise initially asked us to help her with anyalyzing crowdfunding data to determine whether there are specific factors that make a project's campaign successful. She now wants to how different campaigns fared in relation to their launch dates and their funding goals.
+The purpose for the analysis was to help Louise compare how different crowd funding campaigns fared in relation to their launch dates and fundrasing goals to her own campaign for her play "Fever" which came close to its fundraising goal of $10,000 in a short amount of time. Louise initially asked us to help her with anyalyzing crowdfunding data to determine whether there are specific factors that make a project's campaign successful. 
 
 ## Analysis and Challenges
 Explain how you performed your analysis using images and links to code, as well as any challlenges you encountered and how you overcame them. If you had no challenges, describe any possible challenges or difficulties that could be encountered
@@ -11,9 +11,11 @@ Explain how you performed your analysis using images and links to code, as well 
 ### Analysis of Outcomes Based on Launch Date (The critical evaluation which leads to the conclusion)
 In performing our analysis of the "Kickstarter" data, we first added a column, column U, titled "Years" which extracted just the year from column S, "Date Created Conversion". This was added to asisst in evaluating if the year affected the outcomes. We then created a pivot table in the tab "Theater Outcomes by Launch Date" to enable us to examine the different trends in the data. We adjusted the pivot table fields to visualize the campaign outcomes "successful", "failed", and "canceled" based on the launch date of the campaign. We filtered the resulting pivot table to only include campaigns with the parent category "theater" so we can better compare the "Fever" campaign to the relevant campaigns. To help us visualize the trends, we added a dynamic line graph which is included below.
 
-
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/114427019/198102354-e847a8e4-8caa-4451-b8b3-36ec42915a30.png)
 
 ### Analysis of Outcomes Based on Goals
+
+For our analysis in comparing the outcomes "successful", "failed", and "canceled" based on a campaign's goal, we 
 
 ### Challenges and Difficulties Encountered
 A potential challenge in this analysis was 
