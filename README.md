@@ -23,16 +23,16 @@ A challenge in this analysis was making sure that the correct columns and values
 
 ## Results
 
-### Conclusions about the Outcomes based on Launch Date
+### Conclusions About the Outcomes Based on Launch Date
 
 Based on our analysis, campaigns created in May were more successful than any other month in the year while the worst month to start a campaign was in December. Overall, the theater crowdfunding campaigns were generally successful more often than not.
 
-### Conclusion about the Outcomes based on Goals
+### Conclusion About the Outcomes Based on Goals
 
 Generally, the higher the goal, the more likely the campaign was likely to fail. In comparison with Louise's campaign, it is somewhat surprising that her campaign came close to its goal but ultimately didn't reach it. Based on the trends depicted in the graph, her campaign had a slightly higher chance of succeeding rather than failing.
 
 ### Limitations of this Dataset
 The data set is quite outdated. The most recent date in column T, "Date Ended Conversion", is May 3, 2017. As of this year, 2022, the data set is about five years old. This means the trends shown could be inaccurate which would lead to incorrect assumptions and faulty recommendations.
 
-### Other possible Tables and/or Graphs
+### Other Possible Tables and/or Graphs
 An overall outcome analysis based on the Parent Category "Theater" based on the goals for the campaigns rather than just the Subcategory "play". This would help us better compare the "Theater Outcomes Based on Launch Date" analysis to the "Outcomes Based on Goals" analysis because we would be comparing the same data to the same data rather than just a subset of data.
